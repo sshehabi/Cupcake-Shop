@@ -2,3 +2,13 @@
   font-style: italic;
   color: red;
 }
+
+body {
+  background: rgb(255, 192, 203);
+}
+
+.best {
+  font-style: bold;
+  color: rgb(228, 38, 212);
+  font-weight: 650;
+}
